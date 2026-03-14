@@ -1,0 +1,5 @@
+Liability,Amount,Maturity_Days,ASF_Factor
+Retail Deposits,40000000,1,0.9
+Wholesale Funding,30000000,7,0.5
+Short Term Borrowing,20000000,30,0
+Long Term Debt,25000000,365,1

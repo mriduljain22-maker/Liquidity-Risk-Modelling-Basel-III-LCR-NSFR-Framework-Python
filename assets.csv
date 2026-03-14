@@ -1,0 +1,5 @@
+Asset,Market_Value,Category,Haircut,Maturity_Days,RSF_Factor
+Govt Bonds,50000000,HQLA1,0,1,0.05
+Corporate Bonds,10000000,HQLA2,0.15,7,0.15
+Equities,20000000,NonHQLA,0.4,30,0.5
+Loans,40000000,Illiquid,0.5,90,0.85
